@@ -1,0 +1,997 @@
+name;region;country;lat;lon;tz_id;localtime;last_updated;temp_c;temp_f;is_day;condition_text;condition_code;wind_mph;wind_kph;wind_degree;pressure_in;precip_in;humidity;cloud;feelslike_c;uv;gust_mph;gust_kph
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:45;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:44;21/05/2024 08:30;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:45;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:47;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:48;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:47;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:48;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:47;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:48;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:47;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:45;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:45;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:45;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:51;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:58;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:58;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 08:58;21/05/2024 08:45;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;37.6;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:01;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:01;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 08:55;21/05/2024 08:45;19.7;67.4;1;Patchy rain nearby;1063;2.5;4.0;176;29.89;0.0;85;85;19.7;5.0;4.3;6.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:01;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:03;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:01;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:03;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:05;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:03;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:05;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:03;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:05;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:07;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:08;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:07;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:08;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:07;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:08;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:07;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:08;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:11;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:12;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:11;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:12;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:11;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:12;21/05/2024 09:00;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;100;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:11;21/05/2024 09:00;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:15;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:19;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:19;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:19;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:19;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:19;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:19;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:22;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:19;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:22;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:23;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:22;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:23;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:22;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:23;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:26;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:23;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:26;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:27;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:26;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:27;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:26;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:27;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:26;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:27;21/05/2024 09:15;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:26;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:31;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:26;21/05/2024 09:15;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:31;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:33;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:31;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:33;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:31;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:33;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:35;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:36;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:35;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:36;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:35;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:36;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:35;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:36;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:39;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:40;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:39;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:40;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:39;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:40;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:39;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;30.0;86.0;1;Partly cloudy;1003;5.6;9.0;120;29.83;0.0;70;25;35.8;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:43;21/05/2024 09:30;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:50;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:50;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:52;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:50;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:52;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:50;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:52;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:52;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:55;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:47;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:55;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:57;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:55;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:57;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:55;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 09:57;21/05/2024 09:45;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;38.4;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:59;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:00;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:59;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:00;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:59;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:00;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 09:59;21/05/2024 09:45;21.8;71.3;1;Patchy rain nearby;1063;2.2;3.6;169;29.9;0.0;74;76;21.8;6.0;2.6;4.1
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:00;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:03;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:04;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:03;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:04;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:03;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:04;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:03;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:07;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:11;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:11;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:11;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:11;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:11;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:11;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:14;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:11;21/05/2024 10:00;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:14;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:15;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:14;21/05/2024 10:00;31.0;87.8;1;Partly cloudy;1003;5.6;9.0;110;29.83;0.0;63;25;36.1;8.0;10.1;16.2
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:15;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:17;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:15;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:17;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:15;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:17;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:19;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:17;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:19;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:21;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:19;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:21;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:19;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:21;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:24;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:24;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:24;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:24;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:28;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:28;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:28;21/05/2024 10:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:23;21/05/2024 10:15;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:31;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:39;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:39;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:35;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:39;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:42;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:39;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:42;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:43;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:42;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:43;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:42;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:43;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:42;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:43;21/05/2024 10:30;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:42;21/05/2024 10:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;90;29.8;0.0;59;25;38.5;8.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:47;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:48;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:47;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:48;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:47;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:48;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:47;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:48;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:51;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:52;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:51;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:52;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:51;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:52;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:51;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:59;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:59;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 10:59;21/05/2024 10:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;38.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:02;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 10:55;21/05/2024 10:45;23.6;74.6;1;Patchy rain nearby;1063;2.2;3.6;179;29.89;0.0;65;81;25.3;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:02;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:03;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:02;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:03;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:02;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:03;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:06;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:03;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:06;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:07;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:06;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:07;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:09;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:07;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:09;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:10;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:09;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:10;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:09;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:10;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:13;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:10;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:13;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:14;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:13;21/05/2024 11:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.8;0.0;59;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:14;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:16;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:14;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:16;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:14;21/05/2024 11:00;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:16;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:18;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:16;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:18;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:20;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:18;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:20;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:18;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:20;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:22;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:23;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:22;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:23;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:22;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:23;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:22;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:23;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:27;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:27;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:27;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:27;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:27;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:27;21/05/2024 11:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:27;21/05/2024 11:15;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:30;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:34;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:34;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:34;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:34;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:34;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:34;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:37;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:34;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:37;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:38;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:37;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:38;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:37;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:38;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:37;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:38;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:37;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:42;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:37;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:42;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:44;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:42;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:44;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:42;21/05/2024 11:30;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:44;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:46;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:44;21/05/2024 11:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.8;0.0;63;25;37.0;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:46;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:48;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:46;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:48;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:46;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:48;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:50;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:51;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:50;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:51;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:50;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:51;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:50;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:51;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:54;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:55;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:54;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:55;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:54;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:55;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:54;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;37.0;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 11:58;21/05/2024 11:45;24.9;76.8;1;Patchy rain nearby;1063;2.2;3.6;138;29.86;0.0;60;82;26.1;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:02;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:02;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:02;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:02;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:02;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:02;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:05;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:02;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:05;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:06;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:05;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:06;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:05;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:06;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:09;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:06;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:09;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:10;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:09;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:10;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:12;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:10;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:12;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:10;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:12;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:14;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:12;21/05/2024 12:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;90;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:14;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:16;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:14;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:16;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:14;21/05/2024 12:00;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:16;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:18;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:19;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:18;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:19;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:18;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:19;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:18;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:19;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:22;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:23;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:22;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:23;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:22;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:23;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:22;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:26;21/05/2024 12:15;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:30;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:30;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:30;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:30;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:30;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:30;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:33;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:30;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:33;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:35;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:33;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:35;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:36;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:35;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:36;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:35;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:36;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:38;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:36;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:38;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:40;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:38;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:40;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:38;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:40;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:42;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:40;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:42;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:40;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:42;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:40;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:42;21/05/2024 12:30;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:40;21/05/2024 12:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.77;0.0;63;25;36.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:46;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:47;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:46;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:47;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:46;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:47;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:46;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:47;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:50;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:47;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:50;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:47;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:50;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:53;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:54;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:53;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:54;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:53;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:54;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:53;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:54;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:57;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:57;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:57;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:57;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 12:57;21/05/2024 12:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:57;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:00;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 12:57;21/05/2024 12:45;24.9;76.9;1;Patchy rain nearby;1063;2.2;3.6;156;29.84;0.0;60;75;26.2;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:00;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:02;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:00;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:02;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:00;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:02;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:04;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:05;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:04;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:05;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:04;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:05;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:07;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:05;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:07;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:09;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:07;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:09;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:07;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:09;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:11;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:09;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:11;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:12;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:11;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:12;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:14;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:12;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:14;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:12;21/05/2024 13:00;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:14;21/05/2024 13:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;80;29.77;0.0;63;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:16;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:17;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:16;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:17;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:16;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:17;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:16;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:17;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:20;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:21;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:20;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:21;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:20;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:21;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:20;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:24;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:25;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:24;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:25;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:24;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:25;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:24;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:25;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:28;21/05/2024 13:15;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:32;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:33;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:32;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:33;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:32;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:33;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:32;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:33;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:36;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:37;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:36;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:37;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:36;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:37;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:36;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:37;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:40;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:40;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:40;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:40;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:40;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:40;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;60;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:48;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:48;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:48;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:48;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:44;21/05/2024 13:30;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:51;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:52;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:51;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:52;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:51;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:52;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:51;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:52;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 13:55;21/05/2024 13:45;24.3;75.8;1;Patchy rain nearby;1063;2.2;3.6;170;29.81;0.0;65;88;25.8;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:59;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:00;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:59;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:00;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:59;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:00;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 13:59;21/05/2024 13:45;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.8;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:00;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:03;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:04;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:03;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:04;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:03;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:04;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:03;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:04;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.6;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:08;21/05/2024 14:00;23.9;75.0;1;Patchy rain nearby;1063;2.2;3.6;175;29.8;0.0;69;56;25.6;6.0;2.8;4.5
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:12;21/05/2024 14:00;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;10.5;16.9;70;29.74;0.0;67;25;36.4;9.0;15.0;24.1
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:19;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:19;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:19;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:15;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:22;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:23;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:22;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:23;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:22;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:23;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:26;21/05/2024 14:15;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:22;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:30;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:22;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:30;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:22;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:30;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:22;21/05/2024 14:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:30;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:33;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:34;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:33;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:34;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:33;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:34;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:33;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:34;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:37;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:46;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:46;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:46;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:41;21/05/2024 14:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:46;21/05/2024 14:30;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:49;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:50;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:49;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:50;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:49;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:50;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:49;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:53;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:54;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:53;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:54;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:53;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:54;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:53;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:54;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:57;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:58;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:57;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:58;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:57;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:58;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 14:57;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 14:58;21/05/2024 14:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.4;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:00;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:01;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:00;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:01;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:00;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:01;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:00;21/05/2024 14:45;23.5;74.3;1;Patchy rain nearby;1063;2.2;3.6;176;29.81;0.0;70;66;25.3;6.0;2.5;4.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:05;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:09;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:12;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:13;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:12;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:13;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:12;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:13;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:12;21/05/2024 15:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;60;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:13;21/05/2024 15:00;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:17;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:25;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:25;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:25;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:21;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:25;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:28;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:29;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:28;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:29;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:28;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:29;21/05/2024 15:15;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:28;21/05/2024 15:15;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:32;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:36;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:37;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:36;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:37;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:36;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:37;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:36;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:37;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:40;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:44;21/05/2024 15:30;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:48;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:52;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:52;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:52;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:52;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:52;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:52;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:55;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:52;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:55;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:56;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:55;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:56;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:55;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:56;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:58;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 15:56;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:58;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:00;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:58;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:00;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 15:58;21/05/2024 15:45;21.9;71.4;1;Patchy light drizzle;1150;2.2;3.6;187;29.8;0.01;81;51;21.9;6.0;3.1;5.0
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:00;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:02;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:00;21/05/2024 15:45;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.5;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:02;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:04;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:02;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:04;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:06;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:04;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:06;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:04;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:06;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:08;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:06;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:08;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:10;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:08;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:10;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:08;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:10;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:13;21/05/2024 16:00;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:16;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:16;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:16;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:16;21/05/2024 16:00;32.0;89.6;1;Partly cloudy;1003;11.9;19.1;70;29.71;0.0;63;25;36.9;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:20;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:20;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:20;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:20;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:17;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:24;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:25;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:24;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:25;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:24;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:25;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:24;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:25;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:28;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:28;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:28;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:28;21/05/2024 16:15;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:35;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:35;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:35;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:35;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:29;21/05/2024 16:15;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:38;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:39;21/05/2024 16:30;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:38;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:39;21/05/2024 16:30;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:38;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:39;21/05/2024 16:30;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;32.0;89.6;1;Partly cloudy;1003;12.5;20.2;60;29.71;0.0;63;25;36.9;9.0;17.0;27.4
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:42;21/05/2024 16:30;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:46;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:49;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:49;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:49;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:49;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:53;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:53;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:53;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:53;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:50;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:58;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:57;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:58;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:57;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:58;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:57;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 16:58;21/05/2024 16:45;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;34.8;9.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 16:57;21/05/2024 16:45;21.5;70.7;1;Light rain shower;1240;2.2;3.6;151;29.8;0.01;84;55;21.5;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 17:02;21/05/2024 17:00;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;35.3;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 17:02;21/05/2024 17:00;21.6;70.9;1;Patchy rain nearby;1063;2.2;3.6;147;29.81;0.0;85;68;21.6;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 17:02;21/05/2024 17:00;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;35.3;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 17:02;21/05/2024 17:00;21.6;70.9;1;Patchy rain nearby;1063;2.2;3.6;147;29.81;0.0;85;68;21.6;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 17:02;21/05/2024 17:00;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;35.3;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 17:02;21/05/2024 17:00;21.6;70.9;1;Patchy rain nearby;1063;2.2;3.6;147;29.81;0.0;85;68;21.6;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 17:02;21/05/2024 17:00;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;35.3;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 17:05;21/05/2024 17:00;21.6;70.9;1;Patchy rain nearby;1063;2.2;3.6;147;29.81;0.0;85;68;21.6;6.0;6.7;10.8
+Surabaya;East Java;Indonesia;-7.25;112.75;Asia/Jakarta;21/05/2024 17:06;21/05/2024 17:00;31.0;87.8;1;Partly cloudy;1003;11.9;19.1;80;29.71;0.0;66;25;35.3;8.0;16.3;26.3
+Malang;East Java;Indonesia;-8.0;114.14;Asia/Jakarta;21/05/2024 17:05;21/05/2024 17:00;21.6;70.9;1;Patchy rain nearby;1063;2.2;3.6;147;29.81;0.0;85;68;21.6;6.0;6.7;10.8
